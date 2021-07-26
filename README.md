@@ -2,7 +2,7 @@
 
 ## Demo
 
-![video](https://github.com/NeatFastro/pinterest_nav_bar/blob/main/assets/layered-image-demo.gif)
+![video](https://github.com/NeatFastro/layered_image/blob/main/assets/layered-image-demo.gif)
 
 
 
